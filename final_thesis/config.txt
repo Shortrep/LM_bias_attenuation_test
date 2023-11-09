@@ -1,0 +1,2 @@
+race = ["white","black"]
+religion = [None,"christian","jewish"] 
